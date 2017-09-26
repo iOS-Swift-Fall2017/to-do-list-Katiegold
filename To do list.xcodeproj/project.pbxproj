@@ -12,6 +12,7 @@
 		027AC54B1F7A16620031D6E2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 027AC5491F7A16620031D6E2 /* Main.storyboard */; };
 		027AC54D1F7A16620031D6E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 027AC54C1F7A16620031D6E2 /* Assets.xcassets */; };
 		027AC5501F7A16620031D6E2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 027AC54E1F7A16620031D6E2 /* LaunchScreen.storyboard */; };
+		027AC5581F7A9C5C0031D6E2 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027AC5571F7A9C5C0031D6E2 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		027AC54C1F7A16620031D6E2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		027AC54F1F7A16620031D6E2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		027AC5511F7A16620031D6E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		027AC5571F7A9C5C0031D6E2 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				027AC5451F7A16620031D6E2 /* AppDelegate.swift */,
 				027AC5471F7A16620031D6E2 /* ViewController.swift */,
 				027AC5491F7A16620031D6E2 /* Main.storyboard */,
+				027AC5571F7A9C5C0031D6E2 /* DetailViewController.swift */,
 				027AC54C1F7A16620031D6E2 /* Assets.xcassets */,
 				027AC54E1F7A16620031D6E2 /* LaunchScreen.storyboard */,
 				027AC5511F7A16620031D6E2 /* Info.plist */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				027AC5581F7A9C5C0031D6E2 /* DetailViewController.swift in Sources */,
 				027AC5481F7A16620031D6E2 /* ViewController.swift in Sources */,
 				027AC5461F7A16620031D6E2 /* AppDelegate.swift in Sources */,
 			);
